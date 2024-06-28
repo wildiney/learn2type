@@ -1,0 +1,1 @@
+export type FingerColors = { [key: string]: string }
